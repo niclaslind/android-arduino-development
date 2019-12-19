@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothConnectionArduino</string>
+    <string name="button_turnOnLed">Turn on LED</string>
+    <string name="button_flashLED">Flash LED</string>
+    <string name="button_makeTwoLedFlash">Flash Two LED\'s</string>
+    <string name="BuzzerOn">Turn on Buzzer</string>
+    <string name="BuzzerOff">Turn off Buzzer</string>
+    <string name="BuzzerStatus">BuzzerStatus: </string>
+</resources>
